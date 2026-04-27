@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Almaty Office",
+        "email": "office@kbtu.kz",
+        "birthday": "2001-01-01",
+        "group": "Work",
+        "phones": [
+            {"number": "+77271112233", "type": "work"},
+            {"number": "+77015554433", "type": "mobile"}
+        ]
+    },
+    {
+        "name": "Home",
+        "email": null,
+        "birthday": null,
+        "group": "Family",
+        "phones": [
+            {"number": "87272223344", "type": "home"}
+        ]
+    }
+]
