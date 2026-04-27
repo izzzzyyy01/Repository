@@ -1,0 +1,7 @@
+{
+    "snake_color": [0, 255, 0],
+    "grid_overlay": true,
+    "sound_on": true,
+    "screen_width": 800,
+    "screen_height": 600
+}
