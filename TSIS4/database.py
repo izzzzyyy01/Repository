@@ -4,10 +4,11 @@ class Database:
     def __init__(self):
         try:
             self.conn = psycopg2.connect(
-                dbname="snake_db", 
-                user="postgres", 
-                password="your_password", 
-                host="localhost"
+    dbname="snake_db",   
+    user="postgres",      
+    password="ТВОЙ_ПАРОЛЬ", 
+    host="localhost"
+)
             )
             self.cur = self.conn.cursor()
             self._create_tables()
